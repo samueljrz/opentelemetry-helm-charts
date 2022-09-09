@@ -177,6 +177,9 @@
     "nodeSelector": {
       "type": "object"
     },
+    "strategy": {
+      "type": "object"
+    },
     "tolerations": {
       "type": "array",
       "items": {

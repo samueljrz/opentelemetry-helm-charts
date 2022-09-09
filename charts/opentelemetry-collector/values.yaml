@@ -163,6 +163,7 @@ podSecurityContext: {}
 securityContext: {}
 
 nodeSelector: {}
+strategy: {}
 tolerations: []
 affinity: {}
 
